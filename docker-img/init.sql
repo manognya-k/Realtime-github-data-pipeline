@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS issues (
+  new_id BIGINT PRIMARY KEY AUTO_INCREMENT,
+  id BIGINT ,
+  title TEXT,
+  program_name VARCHAR(250)
+);

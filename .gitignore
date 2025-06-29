@@ -1,0 +1,12 @@
+.myenv/
+
+.vscode/
+
+terraforms/.terraform
+terraforms/.terraform.lock.hcl
+
+terraform.tfstate
+
+react-dashboard/node_modules
+
+package-lock.json
