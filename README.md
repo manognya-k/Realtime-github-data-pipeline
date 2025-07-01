@@ -1,4 +1,4 @@
-🚀 End-to-End GitHub Data Pipeline using Docker, Kafka, Spark, MySQL & React
+## **🚀 End-to-End GitHub Data Pipeline using Docker, Kafka, Spark, MySQL & React**
 This project is a full-stack data pipeline that collects GitHub data in real-time, processes it with Apache Spark, stores the processed data in MySQL, and visualizes everything in a React dashboard. The entire setup runs locally using Docker and LocalStack, and infrastructure is provisioned using Terraform.
 
 🧰 Tech Stack
